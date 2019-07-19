@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: heroblock
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: "Hi, I'm a Stackbit Theme."
     section_id: hero
     component: HeroBlock
     content: >-
@@ -32,7 +32,7 @@ sections:
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius. 
+          tincidunt ut tellus. Vivamus rhoncus mattis varius.
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
