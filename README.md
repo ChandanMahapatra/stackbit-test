@@ -6,7 +6,11 @@ Stackbit Exto Theme original README is located [here](./README.theme.md).
 
 The content of this site is managed by NetlifyCMS. Visit https://{yoursite-domain}/admin to manage site content.
 
-# Running Your Site Locally
+## Running Site Online - Codesandbox
+
+Dev - [www.codesandbox.io/s/stackbit-exto-theme-c2rdf](https://codesandbox.io/s/stackbit-exto-theme-c2rdf) 
+
+## Running Your Site Locally
 
 1. Install [Node.js and npm](https://nodejs.org/en/)
 
